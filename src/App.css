@@ -1,0 +1,10 @@
+.stagesContainer {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.stageItemsContainer {
+    display: flex;
+    flex-direction: column;
+}
